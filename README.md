@@ -68,4 +68,4 @@ Data Privacy: Comply with data protection regulations and implement measures to 
 Regular Audits: Conduct security audits and testing to identify and rectify vulnerabilities in the application.
 
 
-OUTPUT: ![Image](https://github.com/user-attachments/assets/83600a19-3c5b-4e5d-8d9e-cbcbec2d5831)
+OUTPUT: ![Image](https://github.com/user-attachments/assets/31f28575-0139-4ebf-a20d-64059aae2e35)
