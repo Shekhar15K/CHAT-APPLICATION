@@ -66,3 +66,6 @@ End-to-End Encryption: Encrypt messages to ensure that they can be read only by 
 Data Privacy: Comply with data protection regulations and implement measures to prevent unauthorized access to user data.
 
 Regular Audits: Conduct security audits and testing to identify and rectify vulnerabilities in the application.
+
+
+OUTPUT: ![Image](https://github.com/user-attachments/assets/83600a19-3c5b-4e5d-8d9e-cbcbec2d5831)
